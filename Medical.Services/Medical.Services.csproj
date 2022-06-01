@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Medical.Common\Medical.Common.csproj" />
+    <ProjectReference Include="..\Medical.Repository\Medical.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
